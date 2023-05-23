@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://golki:33345Golik@golki.p4jsrrp.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "todo-secret"
+}
